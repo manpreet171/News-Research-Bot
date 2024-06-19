@@ -85,3 +85,12 @@ The answer and sources are displayed in the Streamlit interface. This includes d
 
 **Contributing**
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+
+
+
+![Screenshot_19-6-2024_184344_localhost](https://github.com/manpreet171/News-Research-Bot/assets/172519023/f2710d35-0567-4d4f-8445-464c5bb880fd)
+
+
+
+
